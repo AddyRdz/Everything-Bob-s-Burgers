@@ -1,2 +1,2 @@
-# Everything-Bob-s-Burgers
+# Everything-Bob's-Burgers
 An app about Bob's Burgers characters! 
