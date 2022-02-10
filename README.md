@@ -28,15 +28,15 @@ https://bobsburgers-api.herokuapp.com/characters/
 
 ## User Stories
 As a user at the home page I will see Bobs’s Burgers background and it will have multiple cards displayed showing characters from Bob’s burgers show.  
-As a user I will see a nav bar that will show the title of the app and will take me to the home page when clicked.
-As a user, after clicking the character card I will be able to see a quick profile showing an image, who voices the character and when they first appeared on the show.
-As a user after clicking the end credits scene I will see an image of the end credit scene and the season and episode the scene belongs to.
+<br>As a user I will see a nav bar that will show the title of the app and will take me to the home page when clicked.
+<br>As a user, after clicking the character card I will be able to see a quick profile showing an image, who voices the character and when they first appeared on the show.
+<br>As a user after clicking the end credits scene I will see an image of the end credit scene and the season and episode the scene belongs to.
 
 ### MVP Goals
-Components set up, routes are built and linked correctly. 
-Character link will show the image, name, and when they first appeared on the show. 
-End credit sequence will render an image of the end credit that will include image and season.
+<br>Components set up, routes are built and linked correctly. 
+<br>Character link will show the image, name, and when they first appeared on the show. 
+<br>End credit sequence will render an image of the end credit that will include image and season.
 
 ### Stretch Goals
-Have a search bar that will find the episode you want by using keywords, character name, date of release, etc.
-What episode should I watch? It  will show all episodes and you can see info on episodes.
+<br>Have a search bar that will find the episode you want by using keywords, character name, date of release, etc.
+<br>What episode should I watch? It  will show all episodes and you can see info on episodes.
