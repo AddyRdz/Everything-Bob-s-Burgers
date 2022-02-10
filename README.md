@@ -27,8 +27,8 @@ https://bobsburgers-api.herokuapp.com/characters/
 
 
 ## User Stories
-As a user at the home page I will see Bobs’s Burgers background and it will have multiple cards displayed showing characters from Bob’s burgers show.  
-<br>As a user I will see a nav bar that will show the title of the app and will take me to the home page when clicked.
+<br>As a user at the home page I will see Bobs’s Burgers background and it will have multiple cards displayed showing characters from Bob’s burgers show.  
+As a user I will see a nav bar that will show the title of the app and will take me to the home page when clicked.
 <br>As a user, after clicking the character card I will be able to see a quick profile showing an image, who voices the character and when they first appeared on the show.
 <br>As a user after clicking the end credits scene I will see an image of the end credit scene and the season and episode the scene belongs to.
 
