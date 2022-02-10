@@ -1,12 +1,12 @@
 # Everything-Bob's-Burgers
-An app about Bob's Burgers characters! Welcome to my Bob’s Burgers App, where you will find anything related to Bob’s burgers! On this app you will find quick character profiles and a library showing the end credit scene. This app will satisfy that random Bob’s Burgers craving you get!## Project Description 
+An app about Bob's Burgers characters! Welcome to my Bob’s Burgers App, where you will find anything related to Bob’s burgers! On this app you will find quick character profiles and a library showing the end credit scene. This app will satisfy that random Bob’s Burgers craving you get!
 
 ## Link to the API you plan to use
-> API link
+> API link <br>
 https://bobsburgers-api.herokuapp.com/characters/
-https://bobsburgers-api.herokuapp.com/endCreditsSequence/
+<br>https://bobsburgers-api.herokuapp.com/endCreditsSequence/
 
-## Example data response you plan to use
+## Example of data used
 {
     "id": 1,
     "name": "\"Dottie Minerva\"",
@@ -18,7 +18,7 @@ https://bobsburgers-api.herokuapp.com/endCreditsSequence/
     "voicedBy": "Wendy Molyneux",
     "url": "https://bobsburgers-api.herokuapp.com/characters/1"
   }
-## Visual of your component hierarchy
+## Visual component hierarchy
 <img width="1312" alt="Screen Shot 2022-02-10 at 12 07 49 PM" src="https://media.git.generalassemb.ly/user/40831/files/21cea500-8a6a-11ec-860d-c153f15253ff">
 
 ## Wire Frames
