@@ -9,6 +9,7 @@ function CharacterList(props){
             return(
                 <div className="card" key={index}>
                 <div className="card-image">
+                    <img src={bobCharacters.image}/>
                     <ul>
                     <li>Name:{bobCharacters.name}</li>
                     <li>First Appearance:{bobCharacters.firstEpisode}</li>
