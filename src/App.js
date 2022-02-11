@@ -30,6 +30,7 @@ function App() {
           <h1>Hello!</h1>
 
           <CharacterList characterList={characterList} />
+         
         
         
     </div>
