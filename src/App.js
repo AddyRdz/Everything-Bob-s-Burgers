@@ -1,7 +1,8 @@
 import './App.css';
 import { useState, useEffect } from 'react';
-import staticData from './data'
-import Navigation from './components/Navigation';
+import { Route, Routes } from 'react-router-dom';
+// import staticData from './data'
+// import Navigation from './components/Navigation';
 import CharacterList from './components/CharacterList';
 import CharacterDetails from './components/CharacterDetails';
 
@@ -28,9 +29,10 @@ function App() {
       
       
           <h1>Hello!</h1>
-
-          <CharacterList characterList={characterList} />
-         
+        <Routes>
+          <Route path = "/" element={<CharacterList setCharacterList={setCharacterList} characterList={characterList}/>} />
+          <Route path = "/characters/:id" element= {<CharacterDetails/> } />
+        </Routes>
         
         
     </div>
