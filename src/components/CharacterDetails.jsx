@@ -27,10 +27,11 @@ function CharacterDetails(){
            alt="faceOfCharacter"/> 
         <div className="details">
         <ul>
-        <li>Name</li>
-        <li>First Appearance:</li> 
-        <li>Voiced By:</li>   
-         <p>These are the details</p>
+        <li>First Appearance:</li>
+        <li>{characterDetails.firstEpisode}</li>
+        <li>Voiced By:</li>
+        <li>{characterDetails.voicedBy}</li> 
+         
          </ul>
         </div>
         </div>

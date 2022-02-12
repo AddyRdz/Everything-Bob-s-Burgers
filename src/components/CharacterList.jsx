@@ -14,9 +14,10 @@ function CharacterList(props){
                             <img src={bobCharacters.image}
                             alt="faceOfCharacter"/>
                             <ul>
-                            <li>Name:{bobCharacters.name}</li>
-                            <li>First Appearance:{bobCharacters.firstEpisode}</li>
-                            <li>Voiced By:{bobCharacters.voicedBy}</li>
+                            <li>Name:</li>
+                            <li>{bobCharacters.name}</li>
+                            <li>First Episode:</li>
+                            <li>{bobCharacters.firstEpisode}</li>
                             </ul>
                         </div>    
                         </div>  
