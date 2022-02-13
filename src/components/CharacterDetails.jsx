@@ -25,16 +25,16 @@ function CharacterDetails(){
         <div className="details-container">
            <img src={characterDetails.image}
            alt="faceOfCharacter"/> 
-        <div className="details">
-        <ul>
-        <li>First Appearance:</li>
-        <li>{characterDetails.firstEpisode}</li>
-        <li>Voiced By:</li>
-        <li>{characterDetails.voicedBy}</li> 
-         
-         </ul>
-        </div>
-        </div>
+          <div className="details">
+            <ul>
+            <li>First Appearance:</li>
+            <li>{characterDetails.firstEpisode}</li>
+            <li>Voiced By:</li>
+            <li>{characterDetails.voicedBy}</li> 
+          
+            </ul>
+          </div>
+          </div>
     )
 }
 
