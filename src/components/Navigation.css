@@ -1,4 +1,17 @@
-.Navigation{
-    background-color: black;
-    overflow: hidden;
+.navigation {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 30px;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
+.navigation__links-wrapper {
+    display: flex;
+    flex-shrink: 1;
+    justify-content: space-between;
+}
+

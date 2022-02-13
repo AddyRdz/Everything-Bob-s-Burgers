@@ -2,7 +2,9 @@
   text-align: center;
 }
 body{
+  background-attachment: fixed;
   background-image: url(./images/Store\ Front.png);
+  
   
 }
 .container{
@@ -15,10 +17,11 @@ body{
   max-width: fit-content;
 }
 .card{
-  border: 1px solid black;
+  border: 3px solid black;
   display: grid;
   border-radius: 1rem;
-  grid-template-rows: 5fr 1fr;
+  grid-template-rows: 10fr 1fr;
+  background-color: rgba(255, 255, 255, .3);
 }
 img{
   height: 300px;
