@@ -30,12 +30,11 @@ function App() {
     <div className="App">
       <Navigation/>
      
-      {/* <StoreList/> */}
       
           <Routes>
             <Route path = "/" element={<CharacterList setCharacterList={setCharacterList} characterList={characterList}/>} />
             <Route path = "/characters/:id" element= {<CharacterDetails/> } />
-            <Route path ="/stores" element={<StoreList />} />
+            <Route path ="/stores/" element={<StoreList />} />
             <Route path ="/stores/:id" element = {<StoreDetails/>} />
           </Routes>
         

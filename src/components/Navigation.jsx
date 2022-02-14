@@ -7,7 +7,7 @@ function Navigation(props){
         <nav className="navigation">
             <div className="navigation__links-wrapper">
                 <Link to="/"><p>All Characters</p></Link>
-                {/* <Link to="/characters/:id"><p>Character Details</p></Link> */}
+                <Link to="/stores"><p>Store Next Door</p></Link>
             </div>
         </nav>
         </>

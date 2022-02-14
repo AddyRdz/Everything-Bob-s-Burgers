@@ -10,8 +10,10 @@
     width: 100%;
 }
 .navigation__links-wrapper {
+    
     display: flex;
     flex-shrink: 1;
     justify-content: space-between;
+
 }
 
