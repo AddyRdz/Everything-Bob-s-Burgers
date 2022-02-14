@@ -23,10 +23,11 @@ function CharacterDetails(){
       }, []);
     
     return(
-        <div className="details-container">
-           <img src={characterDetails.image}
-           alt="faceOfCharacter"/> 
+        <div className="details-container"> 
           <div className="details">
+          <div className="card-image">
+           <img src={characterDetails.image}
+           alt="faceOfCharacter"/>
             <ul>
             <li>Name:</li>
             <li>{characterDetails.name}</li>
@@ -41,6 +42,7 @@ function CharacterDetails(){
             <li>Hair Color:</li>
             <li>{characterDetails.hairColor}</li>
             </ul>
+          </div>  
           </div>
           </div>
     )
