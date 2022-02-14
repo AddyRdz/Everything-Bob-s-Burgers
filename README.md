@@ -4,7 +4,7 @@ An app about Bob's Burgers characters! Welcome to my Bob’s Burgers App, where 
 ## Link to the API you plan to use
 > API link <br>
 https://bobsburgers-api.herokuapp.com/characters/
-<br>https://bobsburgers-api.herokuapp.com/endCreditsSequence/
+<br>https://bobsburgers-api.herokuapp.com/storeNextDoor
 
 ## Example of data used
 {
