@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+
 function CharacterList(props){
     // console.log("This is the character list",props.characterList)
     return(
@@ -8,16 +9,13 @@ function CharacterList(props){
 
                 {props.characterList.map( (bobCharacters, index) =>{
                     return(
-                        <Link to={`/characters/${bobCharacters.id}`}>
-                        <div className="card" key={index}>
+                        <Link to={`/characters/${bobCharacters.id}`} key={index} >
+                        <div className="card" >
                         <div className="card-image">
                             <img src={bobCharacters.image}
                             alt="faceOfCharacter"/>
                             <ul>
-                            <li>Name:</li>
                             <li>{bobCharacters.name}</li>
-                            <li>First Episode:</li>
-                            <li>{bobCharacters.firstEpisode}</li>
                             </ul>
                         </div>    
                         </div>  
