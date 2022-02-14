@@ -4,7 +4,8 @@ import { Route, Routes } from 'react-router-dom';
 import Navigation from './components/Navigation';
 import CharacterList from './components/CharacterList';
 import CharacterDetails from './components/CharacterDetails';
-import EndScene from './EndScene';
+import StoreList from './components/StoreList';
+import StoreDetails from './components/StoreDetails';
 
 
 function App() {
@@ -28,11 +29,14 @@ function App() {
   return (
     <div className="App">
       <Navigation/>
-      <EndScene/>
+     
+      {/* <StoreList/> */}
       
           <Routes>
             <Route path = "/" element={<CharacterList setCharacterList={setCharacterList} characterList={characterList}/>} />
             <Route path = "/characters/:id" element= {<CharacterDetails/> } />
+            <Route path ="/stores" element={<StoreList />} />
+            <Route path ="/stores/:id" element = {<StoreDetails/>} />
           </Routes>
         
         
