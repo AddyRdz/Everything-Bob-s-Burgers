@@ -1,4 +1,4 @@
-.details-container{
+.storedetails-container{
     display: grid;
     margin: 0 auto;
     margin-top: 175px;
@@ -11,7 +11,7 @@
   
 }
 
-  .details{
+  .storedetails{
     border: 3px solid black;
     display: grid;
     border-radius: 1rem;

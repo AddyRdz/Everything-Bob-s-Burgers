@@ -1,5 +1,6 @@
 import { useState,useEffect } from 'react'
 import{ Link } from 'react-router-dom'
+import './StoreList.css'
 
 function StoreList(props){
     const URL= "https://bobsburgers-api.herokuapp.com/storeNextDoor/"
@@ -27,7 +28,7 @@ function StoreList(props){
           return(
             <Link to={`/stores/${viewStores.id}`} key={index} >
               <div className="store-card">
-                <div className="staorecard-image">
+                <div className="storecard-image">
                   <img src={viewStores.image}
                   alt="imageOfStore"/>
                   <ul>

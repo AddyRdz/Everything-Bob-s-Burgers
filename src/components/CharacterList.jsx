@@ -10,6 +10,7 @@ function CharacterList(props){
 
                 {props.characterList.map( (bobCharacters, index) =>{
                     return(
+                        
                         <Link to={`/characters/${bobCharacters.id}`} key={index} >
                         <div className="card" >
                         <div >
@@ -17,10 +18,10 @@ function CharacterList(props){
                             alt="faceOfCharacter"/>
                             <ul>
                             <li>{bobCharacters.name}</li>
-                            </ul>
+                            </ul>    
                         </div>    
                         </div>  
-                        </Link>   
+                        </Link>  
                     )
                 })}
          </section>
