@@ -6,7 +6,7 @@
     /* grid-auto-rows: minmax(100px,auto); */
     grid-gap: 50px;
     column-gap: normal;
-    /* max-width:fit-content; */
+    max-width:fit-content;
     /* height: 555px; */
     
 
@@ -20,10 +20,12 @@
     background-color: rgba(255, 255, 255, .3);
     align-items: center;
     text-align: center;
+    font-size: larger;
+    font-weight: bolder;
     
   }
   /* .storecard-image{
-    height: 350px;
-    width:300px;
+    height: 250px;
+    width:200px;
     margin: auto;
   } */

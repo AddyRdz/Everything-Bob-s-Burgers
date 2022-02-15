@@ -20,3 +20,6 @@
     height: 300px;
     width:200px
   }
+  li{
+    list-style: none;
+  }

@@ -35,7 +35,7 @@ As a user I will see a nav bar that will show the title of the app and will take
 ### MVP Goals
 <br>Components set up, routes are built and linked correctly. 
 <br>Character link will show the image, name, and when they first appeared on the show. 
-<br>End credit sequence will render an image of the end credit that will include image and season.
+<br>Store next door will render an image of the store next door that will include image and season.
 
 ### Stretch Goals
 <br>Have a search bar that will find the episode you want by using keywords, character name, date of release, etc.
