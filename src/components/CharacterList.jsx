@@ -12,7 +12,6 @@ function CharacterList(props){
                     return(
                         <Link to={`/characters/${bobCharacters.id}`} key={index} >
                         <div className="card" >
-
                         <div >
                             <img className='card-image' src ={bobCharacters.image}
                             alt="faceOfCharacter"/>

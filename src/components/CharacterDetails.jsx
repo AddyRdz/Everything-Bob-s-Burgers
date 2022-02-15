@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react"
 import { useParams } from 'react-router-dom'
+import './CharacterDetails.css'
 
 
 function CharacterDetails(){
@@ -25,9 +26,10 @@ function CharacterDetails(){
     return(
         <div className="details-container"> 
           <div className="details">
-          <div className="card-image">
-           <img src={characterDetails.image}
+            <img className="details-card-image" src={characterDetails.image}
            alt="faceOfCharacter"/>
+          <div>
+           
             <ul>
             <li>Name:</li>
             <li>{characterDetails.name}</li>
