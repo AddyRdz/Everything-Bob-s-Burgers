@@ -22,10 +22,10 @@ function StoreDetails(){
       }, []);
 
     return(
-        <div className="details-container">
-            <img src={storeDetails.image}
-            alt="imageOfScene"/>
-            <div className="details">
+        <div className="storedetails-container">
+            <div className="storedetails">
+                <img src={storeDetails.image}
+                alt="imageOfScene"/>
                 <ul>
                     <li>Name:</li>
                     <li>{storeDetails.name}</li>

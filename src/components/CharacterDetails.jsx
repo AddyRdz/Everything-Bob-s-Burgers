@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react"
 import { useParams } from 'react-router-dom'
-import './CharacterDetails.css'
+
 
 function CharacterDetails(){
     const {id}=useParams()

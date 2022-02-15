@@ -21,13 +21,13 @@ function StoreList(props){
   return(
     <div>
       <p>This is the Store List Page </p>
-      <section className="container">
+      <section className="storecontainer">
 
         {storeList.map( (viewStores,index)=>{
           return(
             <Link to={`/stores/${viewStores.id}`} key={index} >
-              <div className="card">
-                <div className="card-image">
+              <div className="store-card">
+                <div className="staorecard-image">
                   <img src={viewStores.image}
                   alt="imageOfStore"/>
                   <ul>
