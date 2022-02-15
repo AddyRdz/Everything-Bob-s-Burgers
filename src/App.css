@@ -1,9 +1,10 @@
 .App {
   text-align: center;
+ 
   
 }
 body{
   background-attachment: fixed;
   background-image: url(/public/images/Store\ Front.png); 
-  
+   
 }

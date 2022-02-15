@@ -5,7 +5,8 @@ function CharacterList(props){
     // console.log("This is the character list",props.characterList)
     return(
         <div>
-            <p>This is the character list page!</p>
+            <div className='Title-area'> </div>      
+            <h1>Everything Bob's Burgers!</h1>
             <section className="container">
 
                 {props.characterList.map( (bobCharacters, index) =>{

@@ -30,9 +30,6 @@ function StoreDetails(){
                 <ul>
                     <li>Name:</li>
                     <li>{storeDetails.name}</li>
-                    <li>Season:</li>
-                    <li>{storeDetails.season}</li>
-                    
             
                 </ul>
         </div>
