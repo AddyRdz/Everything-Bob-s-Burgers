@@ -6,7 +6,7 @@ import CharacterList from './components/CharacterList';
 import CharacterDetails from './components/CharacterDetails';
 import StoreList from './components/StoreList';
 import StoreDetails from './components/StoreDetails';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 function App() {
