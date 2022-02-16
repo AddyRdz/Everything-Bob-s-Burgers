@@ -30,7 +30,7 @@ https://bobsburgers-api.herokuapp.com/characters/
 <br>As a user at the home page I will see Bobs’s Burgers background and it will have multiple cards displayed showing characters from Bob’s burgers show.  
 As a user I will see a nav bar that will show the title of the app and will take me to the home page when clicked.
 <br>As a user, after clicking the character card I will be able to see a quick profile showing an image, who voices the character and when they first appeared on the show.
-<br>As a user after clicking the end credits scene I will see an image of the end credit scene and the season and episode the scene belongs to.
+<br>As a user after clicking the store next door section I will see an image of the store next door and the season and episode the image belongs to.
 
 ### MVP Goals
 <br>Components set up, routes are built and linked correctly. 
@@ -39,4 +39,4 @@ As a user I will see a nav bar that will show the title of the app and will take
 
 ### Stretch Goals
 <br>Have a search bar that will find the episode you want by using keywords, character name, date of release, etc.
-<br>What episode should I watch? It  will show all episodes and you can see info on episodes.
+<br>Set up site where you open to a home page and are able to get to other pages that way.
