@@ -2,18 +2,15 @@
     display: grid;
     margin: 0 auto;
     padding: 2rem;
-    /* grid-template-columns: repeat(3,1fr);  */
-    /* grid-auto-rows: minmax(100px,auto); */
     grid-gap: 50px;
     column-gap: normal;
     max-width:fit-content;
-    /* height: 555px; */
     
 
   }
   .store-card{
     border: 3px solid black;
-    /* display: grid; */
+    
     display: inline-block;
     border-radius: 1rem;
     grid-template-rows: 10fr 1fr;
@@ -24,8 +21,4 @@
     font-weight: bolder;
     
   }
-  /* .storecard-image{
-    height: 250px;
-    width:200px;
-    margin: auto;
-  } */
+ 

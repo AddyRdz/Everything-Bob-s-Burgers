@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react"
 import { useParams } from 'react-router-dom'
 import './CharacterDetails.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 function CharacterDetails(){
