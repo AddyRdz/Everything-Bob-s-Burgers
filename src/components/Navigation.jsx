@@ -4,7 +4,7 @@ import './Navigation.css'
 function Navigation(props){
     return(
         <>
-        <nav className="navigation">
+        <nav className="navigation" expand="xxl">
             <div className="navigation__links-wrapper">
                 <Link to="/"><p>All Characters</p></Link>
                 <Link to="/stores"><p>Store Next Door</p></Link>
@@ -13,6 +13,10 @@ function Navigation(props){
         </>
     )
 }
+
+
+
+
 
 
 

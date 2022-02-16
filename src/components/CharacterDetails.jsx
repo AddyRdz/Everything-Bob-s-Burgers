@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react"
 import { useParams } from 'react-router-dom'
 import './CharacterDetails.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function CharacterDetails(){
@@ -39,10 +40,6 @@ function CharacterDetails(){
             <li>{characterDetails.voicedBy}</li>
             <li>Occupation:</li>
             <li>{characterDetails.occupation}</li> 
-            <li>Gender:</li>
-            <li>{characterDetails.gender}</li>
-            <li>Hair Color:</li>
-            <li>{characterDetails.hairColor}</li>
             </ul>
           </div>  
           </div>
