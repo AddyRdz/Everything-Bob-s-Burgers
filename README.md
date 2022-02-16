@@ -53,7 +53,7 @@ As a user I will see a nav bar that will show the title of the app and will take
 <br>Set up site where you open to a home page and are able to get to other pages that way.
 
 ### Contribution Guidelines
-> When opening this app you will see a page thats shows a list of Bob's Burgers Characters that includes their name and image. 
+> When opening this app you will see a page thats shows a list of Bob's Burgers Characters that includes their name and image. You will be able to move around the app by clicking the individual box and using the navigation bar that can take you to the other page available that is the store next door page. In order to fork this app you press the fork button at the top right corner, after use the code to clone into your personal working space. You can run npm start to work on the project. 
 
 ### Getting Started
->
+> Create your own copy of the project before moving forward. Afterwards you can do your best to improve the app.
