@@ -51,3 +51,9 @@ As a user I will see a nav bar that will show the title of the app and will take
 ### Stretch Goals
 ><br>Have a search bar that will find the episode you want by using keywords, character name, date of release, etc.
 <br>Set up site where you open to a home page and are able to get to other pages that way.
+
+### Contribution Guidelines
+> When opening this app you will see a page thats shows a list of Bob's Burgers Characters that includes their name and image. 
+
+### Getting Started
+>
