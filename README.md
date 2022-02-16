@@ -1,5 +1,10 @@
 # Everything-Bob's-Burgers
 An app about Bob's Burgers characters! Welcome to my Bob’s Burgers App, where you will find anything related to Bob’s burgers! On this app you will find quick character profiles and a library showing the end credit scene. This app will satisfy that random Bob’s Burgers craving you get!
+<img width="1696" alt="Character List" src="https://user-images.githubusercontent.com/95986357/154320971-a5dedbf9-ba23-46b1-99ca-50a2caabb30d.png">
+<img width="1697" alt="Character Card" src="https://user-images.githubusercontent.com/95986357/154321001-135121e9-55f2-4a22-8999-c28046e087c2.png">
+<img width="1693" alt="Store Next Door List" src="https://user-images.githubusercontent.com/95986357/154321022-3746dcb8-ecd7-41bc-b748-dd985f6cad6e.png">
+<img width="1700" alt="Next Door Card" src="https://user-images.githubusercontent.com/95986357/154321032-6592c511-f6de-4998-9642-b4375f7d1cee.png">
+
 
 ## Link to the API you plan to use
 > API link <br>
@@ -26,7 +31,10 @@ https://bobsburgers-api.herokuapp.com/characters/
 ## Wire Frames
 <img width="923" alt="Wire Frame" src="https://user-images.githubusercontent.com/95986357/154174315-a551c25e-83d8-4e45-a108-f279f74de0f4.png">
 
-
+## Technologies Used
+<br>JavaScript
+<br>CSS
+<br>React Router App
 
 
 ## User Stories
