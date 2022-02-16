@@ -18,12 +18,15 @@ https://bobsburgers-api.herokuapp.com/characters/
     "voicedBy": "Wendy Molyneux",
     "url": "https://bobsburgers-api.herokuapp.com/characters/1"
   }
+
 ## Visual component hierarchy
-<img width="1312" alt="Screen Shot 2022-02-10 at 12 07 49 PM" src="https://media.git.generalassemb.ly/user/40831/files/21cea500-8a6a-11ec-860d-c153f15253ff">
+<img width="1075" alt="Visual Component Hierarchy" src="https://user-images.githubusercontent.com/95986357/154174361-f742ced4-bbea-44ad-abda-1b9c39f5f39d.png">
+
 
 ## Wire Frames
+<img width="923" alt="Wire Frame" src="https://user-images.githubusercontent.com/95986357/154174315-a551c25e-83d8-4e45-a108-f279f74de0f4.png">
 
-<img width="1122" alt="Screen Shot 2022-02-10 at 11 44 43 AM" src="https://media.git.generalassemb.ly/user/40831/files/e9799780-8a66-11ec-9e66-5de312ad57d3">
+
 
 
 ## User Stories
